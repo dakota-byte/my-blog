@@ -1,6 +1,6 @@
 ---
 title: HTTP Server
-description: I wrote a HTTP server in Python
+description: I wrote a HTTP server in Python, with a complementary unix-like CLI tool
 date: 2024-07-1 12:00:00 -0400
 categories: [Project]
 tags:  [Python]
