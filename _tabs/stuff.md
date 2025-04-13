@@ -6,8 +6,6 @@ order: 2
 
 ### A collection of resources I'm holding on to
 
-#### Websites
-
 | key           | value         | type |
 | ------------- | ------------- | ---- |
 | [CTFtime](https://ctftime.org/) | upcoming CTFs | CTF |
