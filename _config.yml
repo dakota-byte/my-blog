@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: dakota's mind? # the main title
+title: dakota's corner # the main title
 
-tagline: a den # it will display as the sub-title
+tagline: a hacking corner # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   a portfolio.
